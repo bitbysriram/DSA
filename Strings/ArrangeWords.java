@@ -10,10 +10,10 @@ public class ArrangeWords {
         return Character.toUpperCase(result.charAt(0)) + result.substring(1);  
     }
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter the sentence :");
-        String text=sc.nextLine();
+        String text = sc.nextLine();
         
         System.out.println("Rearranged sentence is :"+arrangeWords(text));
 
