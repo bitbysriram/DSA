@@ -15,27 +15,4 @@ To improve problem-solving skills and prepare for coding assessments and technic
 
 ## Language
 Java
-## 📂 Repository Structure
-DSA
- ├── Arrays
- │    ├── CountFreq.java
- │    ├── Max_freq.java
- │    ├── SubArraySum.java
- │    └── findLargest.java
- │
- ├── LinkedList
- │    ├── DelLastNode.java
- │    ├── LinkedList.java
- │    └── SearchInLL.java
- │
- ├── Math
- │    ├── GCD.java
- │    └── Nth_root.java
- │
- ├── Strings
- │    └── isPalindrome.java
- │
- ├── Searching
- │
- ├── README.md
- └── .gitignore
+
