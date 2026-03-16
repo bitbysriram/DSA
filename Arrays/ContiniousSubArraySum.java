@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ContiniousSubArraySum {
 
     // Function to check if a subarray of length >= 2 exists
